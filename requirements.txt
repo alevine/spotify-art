@@ -1,0 +1,2 @@
+spotipy==2.4.4
+matplotlib==3.0.2

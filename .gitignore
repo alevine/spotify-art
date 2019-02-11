@@ -1,0 +1,6 @@
+*.png
+.cache-*
+*.json
+__pycache__/*
+spotify_env.sh
+
