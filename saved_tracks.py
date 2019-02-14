@@ -43,8 +43,8 @@ def reduce_to_albums(song_json):
         else:
             album_song_count[album] = (
                 year, img, album_song_count[album][2] + 1)
-    #album_song_count = {
-        #k: v for (k, v) in album_song_count.items() if v[2] != 1}
+    album_song_count = {
+        k: v for (k, v) in album_song_count.items() if v[2] != 1}
     return album_song_count
 
 

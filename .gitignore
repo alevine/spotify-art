@@ -2,5 +2,5 @@
 .cache-*
 *.json
 __pycache__/*
-spotify_env.sh
-
+saved_pictures/*
+.gitsecret/keys/random_seed
